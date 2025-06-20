@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/42e2f1ea-7c25-4ec4-9e41-4abb1d55197e)
 
 - 🔭 I’m currently working on improving my skills by practicing projects
 - 🤔 I’m looking for help with how I can make my projects more cybersecurity related to have applicable skills when I enter that field.
