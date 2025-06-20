@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on improving my skills by practicing projects
+- 🤔 I’m looking for help with how I can make my projects more cybersecurity related to have applicable skills when I enter that field.
+
 <!--
 **koriol/koriol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
